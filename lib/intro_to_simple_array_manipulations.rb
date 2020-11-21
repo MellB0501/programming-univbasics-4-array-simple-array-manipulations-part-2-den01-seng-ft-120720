@@ -15,7 +15,7 @@ def using_flatten (instruments)
 end
 
 def using_delete (array, integer)
- array.delete(string)
+ array.delete(integer)
 end
 
 def using_delete_at (array, integer)
